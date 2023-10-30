@@ -1,0 +1,2 @@
+# picture_recognize_app
+画像認識アプリをStreamlitで作りました。
